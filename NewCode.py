@@ -4,3 +4,9 @@ for i in x
 
 while x is < 11
     print(2)
+
+//here are a few more edits
+
+function lil_something(x){
+    //not a real function 
+}
